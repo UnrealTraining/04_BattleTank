@@ -14,3 +14,4 @@ alt="IMAGE ALT TEXT HERE" width="256" height="256" border="10" /></a>
 ## Lectures
 * BT01 Intro, Notes & Assets
 * BT02 Game Design Document (GDD)
+* BT03 Setting Up a GitHub "Repo"
