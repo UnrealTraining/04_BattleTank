@@ -7,6 +7,7 @@
 
 void ATankPlayerController::BeginPlay()
 {
+	Super::BeginPlay();
 	ATank* ControlledTank = GetControlledTank();
 
 	if (!ControlledTank)
